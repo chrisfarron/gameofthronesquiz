@@ -1,0 +1,46 @@
+body {
+  background-color: black!important;
+  color: white!important;
+  font-family: Trajan;
+}
+.title {
+  text-align: center;
+  font-size: 50px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+h1.correct,
+h1.incorrect {
+  width: 250px;
+}
+.got {
+  text-align: center;
+  width: 100%;
+}
+.btn {
+  font-size: 100%!important;
+  color: white!important;
+  background-color: #C42323!important;
+  font-family: sans-serif !important;
+  font-weight: bolder!important;;
+  border-radius: 3%;
+  border: 1px #C42323!important;
+  margin-top: 2%!important;
+  background-color: white;
+  width: 280px;
+  height: 45px;
+}
+
+header .header-content {
+    position: relative;
+    width: 100%;
+    padding: 100px 15px;
+    text-align: center;
+}
